@@ -4,7 +4,7 @@
 
 I am Md Istiaq Ahmed, a Full-stack enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
-🔭 I’m currently working on LazyProf, an innovative, free auto-grader tool that offers both automated and manual feedback to improve the grading process of computer science assignments. This platform enables instructors to deliver high-quality, detailed feedback efficiently, significantly reducing their workload. Students can access the built-in sandbox.  
+🔭 I’m currently working on #### LazyProf, an innovative, free auto-grader tool that offers both automated and manual feedback to improve the grading process of computer science assignments. This platform enables instructors to deliver high-quality, detailed feedback efficiently, significantly reducing their workload. Students can access the built-in sandbox.  
 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love playing soccer and video games.
