@@ -1,4 +1,4 @@
-### Hi there 👋, Md Istiaq Ahmed
+### Hello👋, Md Istiaq Ahmed
 ### Computer Science | Full-Stack Dev | UI 
 ![Computer Science | Design and Structure | UI ](https://pbs.twimg.com/media/GY2UHBFXYAUQ_Yg?format=jpg&name=900x900)
 
