@@ -19,7 +19,7 @@ I am Md Istiaq Ahmed, a Full-stack enthusiast seeking opportunities to learn mor
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,cs&perline=10)](https://skillicons.dev)
 
-## Extra...
+## Additional Experience...
 
 ### Used Shopify to Create Stores for business startups. Additionally used Google Ads to analyze audience reach and boost page views and interactions.
 #### >>Link: https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK <<
