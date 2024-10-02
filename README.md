@@ -1,6 +1,6 @@
 ### Md Istiaq Ahmed
 ### Computer Science | Full-Stack Dev | UI 
-![Computer Science | Design and Structure | UI ](https://pbs.twimg.com/media/GY2UHBFXYAUQ_Yg?format=jpg&name=900x900)
+![Computer Science | Design and Structure | UI ]([https://pbs.twimg.com/media/GY2UHBFXYAUQ_Yg?format=jpg&name=900x900](https://pbs.twimg.com/media/GY3a-aYWwAAi6pc?format=jpg&name=large))
 
 I am Md Istiaq Ahmed, a Full-stack enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
