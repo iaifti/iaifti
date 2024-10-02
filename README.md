@@ -1,5 +1,5 @@
 ### Md Istiaq Ahmed
-### Computer Science | Full-Stack Dev | UI 
+### Computer Science | Full-Stack Dev | UI Design
 ![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
 I am Md Istiaq Ahmed, a Full-stack enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
