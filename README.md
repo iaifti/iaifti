@@ -14,4 +14,5 @@ Skills: JAVA / C++/ HTML / C# / PYTHON / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iafiti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ahmedmdistiaq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ifti._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](_istiaq)  
 
-https://img.shields.io/open-vsx/dt/:namespace/:extension
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,c++,react,next.js,HTML,css&perline=5)](https://skillicons.dev)
