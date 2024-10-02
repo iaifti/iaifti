@@ -12,5 +12,6 @@ I am Md Istiaq Ahmed, a full stack enthusiast seeking opportunities to learn mor
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iafiti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ahmedmdistiaq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ifti._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](_istiaq)  
 
-Things I have worked with : 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,react,next.js,HTML,javascript,css,docker&perline=10)](https://skillicons.dev)
+# Things I have worked with : 
+
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,react,nextjs,linux,html,javascript,css,docker&perline=10)](https://skillicons.dev)
