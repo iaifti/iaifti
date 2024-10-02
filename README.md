@@ -1,6 +1,6 @@
 ### Md Istiaq Ahmed
 ### Computer Science | Full-Stack Dev | UI Design
-![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
+![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?raw=true)
 I am Md Istiaq Ahmed, a Full-stack enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
 🔭 I’m currently working on LazyProf, an innovative, free auto-grader tool that offers both automated and manual feedback to improve the grading process of computer science assignments. This platform enables instructors to deliver high-quality, detailed feedback efficiently, significantly reducing their workload. Students can access the built-in sandbox.  
