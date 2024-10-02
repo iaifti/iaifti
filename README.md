@@ -1,6 +1,6 @@
 ### Hi there 👋, Md Istiaq Ahmed
 #### Computer Science | Design and Structure | UI 
-![Computer Science | Design and Structure | UI ](https://pbs.twimg.com/media/GY2Ru2PXwAUPmyw?format=jpg&name=900x900)
+![Computer Science | Design and Structure | UI ](https://pbs.twimg.com/media/GY2UHBFXYAUQ_Yg?format=jpg&name=900x900)
 
 I am Md Istiaq Ahmed, a full stack enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
