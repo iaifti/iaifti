@@ -12,11 +12,11 @@ I am a Full-stack enthusiast seeking opportunities to learn more about programmi
 
 ## I have worked using...
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,html,javascript,css,docker,figma&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,html,javascript,css,docker,figma,cs&perline=20)](https://skillicons.dev)
 
 ## Currently I am learning ...
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs&perline=10)](https://skillicons.dev)
 
 ## Additional Experience...
 
