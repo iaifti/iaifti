@@ -16,7 +16,7 @@ I am a Full-stack enthusiast seeking opportunities to learn more about programmi
 
 ## Currently I am learning ...
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,nextjs,bootstrap&perline=10)](https://skillicons.dev)
 
 ## Additional Experience...
 
