@@ -1,6 +1,6 @@
 ![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Banner.gif?raw=true)
-### Computer Science | Software Dev | UI Design
-I am a Software development enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
+## **Computer Science** | **Software Dev** | **UI Design**
+Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
 🔭 I’m currently working on LazyProf, an innovative, free auto-grader tool that offers both automated and manual feedback to improve the grading process of computer science assignments. This platform enables instructors to deliver high-quality, detailed feedback efficiently, significantly reducing their workload. Students can access the built-in sandbox.  
 
@@ -19,4 +19,5 @@ I am a Software development enthusiast seeking opportunities to learn more about
 ## Additional Experience...
 
 #### Used Shopify to Create Stores for business startups. Additionally used Google Ads to analyze audience reach and boost page views and interactions.
-#### Link: https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK
+#### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK)
+
