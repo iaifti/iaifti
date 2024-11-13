@@ -10,7 +10,7 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## I have worked using...
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ruby,linux,html,javascript,typescript,css,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb,mysql,postgres&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ruby,linux,html,javascript,typescript,css,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb,mysql,postgres&perline=15)](https://skillicons.dev)
 
 ## Currently I am learning ...
 
