@@ -21,3 +21,9 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 #### Used Shopify to Create Stores for business startups. Additionally used Google Ads to analyze audience reach and boost page views and interactions.
 #### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK)
 
+## GitHub Stats:
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tkishika&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="250" width="1000" alt="stats graph"  />
+</div>
+
