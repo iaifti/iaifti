@@ -10,7 +10,7 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## I have worked using...
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ruby,linux,html,javascript,typescript,css,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb,mysql,postgres&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ruby,linux,html,javascript,css,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
 
 ## Currently I am learning ...
 
@@ -18,6 +18,6 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## Additional Experience...
 
-#### Used Shopify to Create Stores for business startups. Additionally used Google Ads to analyze audience reach and boost page views and interactions.
+#### Used Shopify to Create Stores for business startups. Additionally, I used Google Ads to analyze audience reach and boost page views and interactions.
 #### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK)
 
