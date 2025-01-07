@@ -1,4 +1,4 @@
-![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Banner.gif?raw=true)
+![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Banner.png)
 ## **Computer Science** | **Software Dev** | **UI Design**
 Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
 
