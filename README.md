@@ -1,8 +1,6 @@
 ![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Banner.png)
 ## **Computer Science** | **Software Dev** | **UI Design**
-Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly web design.
-
-🔭 I’m currently working on LazyProf, an innovative, free auto-grader tool that offers both automated and manual feedback to improve the grading process of computer science assignments. This platform enables instructors to deliver high-quality, detailed feedback efficiently, significantly reducing their workload. Students can access the built-in sandbox.  
+Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly softwares.
 
 ⚡ Fun fact: I love playing soccer⚽ and video games🎮.
 
