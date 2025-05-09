@@ -1,5 +1,5 @@
 ![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Banner.png)
-## **Computer Science** | **Software Dev** | **UI Design**
+## **Computer Science** | **Software Dev** | **GGen Ai Dev**
 Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly softwares.
 
 ⚡ Fun fact: I love playing soccer⚽ and video games🎮.
