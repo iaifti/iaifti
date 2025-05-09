@@ -8,11 +8,11 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## I have worked using...
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ruby,linux,html,javascript,css,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,tensorflow,linux,html,javascript,css,nextjs,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
 
 ## Currently I am learning ...
 
-[![My Skills](https://skillicons.dev/icons?i=aws,nextjs,bootstrap,pytorch&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,pytorch&perline=10)](https://skillicons.dev)
 
 ## Additional Experience...
 
