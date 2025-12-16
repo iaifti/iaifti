@@ -16,6 +16,6 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## Fun Activity...
 
-#### Used Shopify to Create Stores for business startups. Additionally, I used Google Ads to analyze audience reach and boost page views and interactions.
+#### Used Shopify to Create Stores for business startups. Additionally, I used Google Ads to analyze audience reach and marketing strategies.
 #### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK)
 
