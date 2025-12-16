@@ -14,7 +14,7 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 [![My Skills](https://skillicons.dev/icons?i=aws,pytorch&perline=10)](https://skillicons.dev)
 
-## Additional Experience...
+## Fun Activity...
 
 #### Used Shopify to Create Stores for business startups. Additionally, I used Google Ads to analyze audience reach and boost page views and interactions.
 #### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLP_0xsr-amBYjsC29adB1sJm76cWwBxJK)
