@@ -7,7 +7,7 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## I have worked using...
 
-[![My Skills](https://skillicons.dev/icons?i=python,snowflake,java,cpp,c,tensorflow,linux,html,javascript,css,nextjs,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,tensorflow,linux,html,javascript,css,nextjs,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
 
 ## Currently I am learning ...
 
