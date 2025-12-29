@@ -1,5 +1,5 @@
 ## **Computer Science** | **Analytics Engineer** | **Data Analyst** | **Software Engineer**
-Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly softwares.
+Hi👋, I am a Computer Science student and a enthusiast seeking opportunities to gather experience in Analytics engineering and learning different tools to provide deep insights about business related data.
 
 ⚡ Fun fact: I love playing soccer⚽ and video games🎮.
 
