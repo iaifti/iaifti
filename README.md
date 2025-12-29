@@ -1,5 +1,4 @@
-![Computer Science | Design and Structure | UI ](https://github.com/iaifti/iaifti/blob/main/Banner.png)
-## **Computer Science** | **Software Dev** | **Gen Ai Dev**
+## **Computer Science** | **Analytics Engineer** | **Data Analyst** | **Software Engineer**
 Hi👋, I am a **Software development** enthusiast seeking opportunities to learn more about programming and creating interactive, user-friendly softwares.
 
 ⚡ Fun fact: I love playing soccer⚽ and video games🎮.
@@ -8,7 +7,7 @@ Hi👋, I am a **Software development** enthusiast seeking opportunities to lear
 
 ## I have worked using...
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,tensorflow,linux,html,javascript,css,nextjs,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,snowflake,java,cpp,c,tensorflow,linux,html,javascript,css,nextjs,react,express,nodejs,tailwind,docker,figma,cs,git,github,vscode,jquery,mongodb&perline=10)](https://skillicons.dev)
 
 ## Currently I am learning ...
 
