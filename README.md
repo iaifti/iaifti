@@ -8,7 +8,7 @@ Hi👋, I am a Computer Science student and a enthusiast seeking opportunities t
  ## I have worked using:
  ### Analytical Tools:
  - SQL
- - Python(pandas)
+ - Python
  - DBT
  - Snowflake
  - Power BI
