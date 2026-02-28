@@ -1,5 +1,5 @@
-## **Computer Science** | **Data Engineer** | **Analytics Engineer** 
-Hi👋, I am a Computer Science student and a enthusiast seeking opportunities to gather experience in Analytics engineering and learning different tools to provide deep insights about business related data.
+# **Data Engineer** | **Analytics Engineer** 
+**Hi Everyone!** I am a Computer Science Graduate with experience in Data engineering and Full Stack app development. I love learning different tools to provide deep insights about business related data.
 
 ⚡ Fun fact: I love playing soccer⚽ and video games🎮.
 
