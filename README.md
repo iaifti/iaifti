@@ -1,4 +1,4 @@
-## **Computer Science** | **Analytics Engineer** | **Data Engineer**
+## **Computer Science** | **Data Engineer** | **Analytics Engineer** 
 Hi👋, I am a Computer Science student and a enthusiast seeking opportunities to gather experience in Analytics engineering and learning different tools to provide deep insights about business related data.
 
 ⚡ Fun fact: I love playing soccer⚽ and video games🎮.
@@ -14,6 +14,7 @@ Let's get connected:
  - DBT
  - DataBricks
  - Spark
+ - Airflow
  - Snowflake
  - Power BI
  - Excel
