@@ -11,23 +11,23 @@ Let's get connected:
 
 I design and build end-to-end data systems from ingestion and transformation to analytics and visualization.
 
-### 🔹 Data Processing & Transformation
+###  Data Processing & Transformation
 - **Python** (ETL development, data pipelines)
 - **SQL** (advanced querying, optimization, analytics modeling)
 - **Apache Spark** (distributed data processing)
 - **dbt** (analytics engineering & data modeling)
 
-### 🔹 Orchestration & Workflow Management
+###  Orchestration & Workflow Management
 - **Apache Airflow** (pipeline scheduling and automation)
 
-### 🔹 Data Warehousing & Storage
+###  Data Warehousing & Storage
 - **Snowflake**
 - **Amazon Redshift**
 
-### 🔹 Data Platforms
+###  Data Platforms
 - **Databricks** (Spark-based data engineering workflows)
 
-### 🔹 Business Intelligence & Reporting
+###  Business Intelligence & Reporting
 - **Power BI**
 - **Excel** (advanced modeling, pivot analysis)
 
